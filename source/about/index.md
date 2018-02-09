@@ -3,7 +3,7 @@ title: about
 date: 2018-01-29 13:16:08
 ---
 
-Hey there! If you made it here, that means you are actually somewhat interested in myself and what I do. Here goes...
+Hey there! If you made it here, that means you are actually somewhat interested in myself and what I do. Here goes.......
 
 Well, I go to the University of Illinois at Chicago (UIC) and study computer science. Fun fact, UIC was the only school I applied to coming out of high school since I was pretty set on going to the Navy for most of my teenage years. I decided to pursue computer science since I messed around with technology, computers, and everything alike for most of my life so it seemed like the right fit. 3 years deep into the program and it was one of the better decisions I have made in my lifetime.
 
