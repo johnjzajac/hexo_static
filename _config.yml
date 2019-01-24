@@ -90,7 +90,7 @@ theme: edinburgh
 deploy:
   type: git
   repo: https://github.com/johnjzajac/hexo_static.git
-  branch: master
+  branch: gh-pages
 
 # Configuration for hexo-image-sizes
 image_sizes:
