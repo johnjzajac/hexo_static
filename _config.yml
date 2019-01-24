@@ -12,14 +12,14 @@ timezone: America/Chicago
 
 # Menu
 menu:
-  About: www.johnzajac.me/about/
-  Contact: www.johnzajac.me/contact/
-  Resume: pdfs/John Zajac - Resume - 2018.pdf
+  About: /about/
+  Contact: /contact/
+  Resume: pdfs/John Zajac - Resume.pdf
   LinkedIn: https://www.linkedin.com/in/john-zajac
   SoundCloud: https://soundcloud.com/john-zaj-c
   Twitter: https://www.twitter.com/johnzajac_cs
   Instagram: https://www.instagram.com/johnzajacphoto
-  Facebook: https://www.facebook.com/johnzajacphoto
+  # Facebook: https://www.facebook.com/johnzajacphoto
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
